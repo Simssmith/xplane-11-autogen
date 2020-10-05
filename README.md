@@ -1,1 +1,1 @@
-# xplane-11-autogen
+# Sims Smith Auto gen template for Xplane-11
